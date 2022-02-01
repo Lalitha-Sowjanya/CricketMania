@@ -12,3 +12,5 @@ There are certain rules for this game:
 #8 If the target is achieved, that player will win the game.
 
 The main aspect of the game lies in random number generation which will explained in detail later. Each and every permutation results in a completely different game, so it is worth to get entertained from this program that we designed.
+<img width="560" alt="image" src="https://user-images.githubusercontent.com/97443640/151916841-e4f6ce33-c169-4103-9be4-02e0f9f6999b.png">
+
